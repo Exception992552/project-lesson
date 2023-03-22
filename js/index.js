@@ -50,7 +50,7 @@
      }
  }
 
- //rememberMyFilms();
+ rememberMyFilms();
 
  function detectPersonaLevel() {
      if (personaMovieDB.count < 10) {
@@ -64,4 +64,4 @@
      }
  }
 
- //detectPersonaLevel();
+ detectPersonaLevel();
